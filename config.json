@@ -1,0 +1,13 @@
+{
+    "email": {
+        "sender": {
+            "host": "smtp.gmail.com",
+            "port": 587,
+            "username": "chunksender@gmail.com",
+            "password": "topwed-hYvces-2budvu"
+        },
+        "receivers": [
+            "nestoroprysk@gmail.com"
+        ]
+    }
+}

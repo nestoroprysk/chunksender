@@ -1,0 +1,12 @@
+1. send an email
+2. think of a nice way to provide creds
+3. send an email with nice creds
+4. run on background and write by timer
+5. run on background and write email by timer
+6. provide nice way of adding senders
+7. think on unit testing
+8. add interval to root
+9. edit makefile
+10. verbosity
+11. tests
+12. nice outputs
