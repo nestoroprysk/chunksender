@@ -1,7 +1,7 @@
 package sender
 
 import (
-	"chunksender/config"
+	"github.com/nestoroprysk/chunksender/config"
 
 	"gopkg.in/gomail.v2"
 )

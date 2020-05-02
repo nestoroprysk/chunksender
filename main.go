@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 
-	"chunksender/cmd"
-	"chunksender/config"
+	"github.com/nestoroprysk/chunksender/cmd"
+	"github.com/nestoroprysk/chunksender/config"
 
 	"github.com/spf13/afero"
 	"github.com/spf13/cobra"

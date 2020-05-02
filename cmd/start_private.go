@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"chunksender/config"
-	"chunksender/parser"
-	"chunksender/sender"
+	"github.com/nestoroprysk/chunksender/config"
+	"github.com/nestoroprysk/chunksender/parser"
+	"github.com/nestoroprysk/chunksender/sender"
 
 	"github.com/spf13/cobra"
 )

@@ -6,8 +6,8 @@ import (
 	"os/exec"
 	"strconv"
 
-	"chunksender/config"
-	"chunksender/constant"
+	"github.com/nestoroprysk/chunksender/config"
+	"github.com/nestoroprysk/chunksender/constant"
 
 	"github.com/spf13/afero"
 	"github.com/spf13/cobra"
