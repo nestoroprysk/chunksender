@@ -1,6 +1,6 @@
 package sender
 
-import "sender/config"
+import "chunksender/config"
 
 type Sender interface {
 	Send(subject, msg string) error

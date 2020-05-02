@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"sender/config"
-	"sender/constant"
+	"chunksender/config"
+	"chunksender/constant"
 
 	"github.com/spf13/cobra"
 )
